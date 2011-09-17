@@ -1,0 +1,7 @@
+parameters:
+#    wohl_labs_crud.example.class: WohlLabs\Bundle\CRUDBundle\Example
+
+services:
+#    wohl_labs_crud.example:
+#        class: %wohl_labs_crud.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
